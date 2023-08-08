@@ -1,8 +1,10 @@
-# My Awesome Laravolt Application
+# Tokoker - Toko Kerja
 
 ## Server Requirements
 1. PHP 8.x
 1. Composer 2
+1. Node js
+1. NPM
 1. PostgreSQL (recommended) or MariaDB
 
 ## Local Setup
